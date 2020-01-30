@@ -8,9 +8,6 @@ class Person
   @name = Person.new 
 end
 
-
-class Job 
-
   def initialize
   @job = @job
     
