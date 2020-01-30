@@ -12,6 +12,6 @@ end
   @job = @job
 end
     
-  job = "Home Depot"
   @job = Job.new
+  job = "Home Depot"
 end
