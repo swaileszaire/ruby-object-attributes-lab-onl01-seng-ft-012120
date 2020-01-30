@@ -8,8 +8,8 @@ class Dog
     @name 
   end
   
-  name = "Leetow"
   @name = Dog.new
+  name = "Leetow"
 end 
 
 
