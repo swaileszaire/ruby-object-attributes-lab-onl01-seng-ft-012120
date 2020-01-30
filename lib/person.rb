@@ -4,8 +4,8 @@ class Person
     @name = @name
   end
   
-  name = "David"
   @name = Person.new 
+  name = "David"
 end
 
   def initialize
