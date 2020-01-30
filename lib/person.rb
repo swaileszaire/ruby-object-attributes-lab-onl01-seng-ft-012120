@@ -10,7 +10,6 @@ end
 
   def initialize
   @job = @job
-end
     
   job = "Home Depot"
   @job = Job.new
