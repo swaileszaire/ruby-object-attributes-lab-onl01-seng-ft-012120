@@ -12,6 +12,8 @@ class Dog
   name = "Leetow"
 end 
     
+  Class Breed 
+  
   def initialize
     @breed = @breed
   end 
