@@ -11,9 +11,6 @@ class Dog
   @name = Dog.new
   name = "Leetow"
 end 
-
-
-class Breed 
     
   def initialize
     @breed = @breed
